@@ -13,7 +13,7 @@ Design a knowledge-base expert system that aims to provide the patients with med
 
 ## Installation
 - Clone this repository in your preferred directory
- > git clone `https://github.com/Moozzaart23/Astar-algorithm.git`
+ > git clone `https://github.com/Moozzaart23/Medical-Expert-System.git`
 
  - Run the main file.
 > python medical_expert_system.py
